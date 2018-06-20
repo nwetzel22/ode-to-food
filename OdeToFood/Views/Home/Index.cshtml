@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+<title></title>
 </head>
 <body>
     <h1>@Model.CurrentMessage</h1>
@@ -12,8 +12,12 @@
             <tr>
                 <td>@restaurant.Id</td>
                 <td>@restaurant.Name</td>
+                <td>
+                 <a asp-action="Details" asp-route-id="@restaurant.Id">More</a>
+                </td>
             </tr>
         }
     </table>
+    <a asp-action="Create">Add Restaurant</a>
 </body>
 </html>
