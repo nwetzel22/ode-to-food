@@ -12672,13 +12672,13 @@
       "projectName": "OdeToFood",
       "projectPath": "/Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/OdeToFood.csproj",
       "packagesPath": "/Users/nicholaswetzel/.nuget/packages/",
-      "outputPath": "/Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj/",
+      "outputPath": "/Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/nicholaswetzel/.nuget/NuGet/NuGet.Config"
+        "/Users/nicholaswetzel/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12700,14 +12700,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[2.0.*, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "2.0.*"
           }
         },
         "imports": [
