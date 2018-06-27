@@ -8,7 +8,7 @@
 
 @foreach (var restaurant in Model.Restaurants)
 {
-    @Html.Partial("_Summary", restaurant)
+    <partial name="_Summary" model="restaurant"/>
 }
 
 <div>
