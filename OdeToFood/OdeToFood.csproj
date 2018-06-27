@@ -18,6 +18,9 @@
       <Folder Include="Views\Shared\" />
       <Folder Include="Pages\" />
       <Folder Include="Pages\Restaurants\" />
+      <Folder Include="ViewComponents\" />
+      <Folder Include="Views\Shared\Components\" />
+      <Folder Include="Views\Shared\Components\Greeter\" />
     </ItemGroup>
     <ItemGroup>
       <Content Remove="Pages\_ViewStart.cshtml" />

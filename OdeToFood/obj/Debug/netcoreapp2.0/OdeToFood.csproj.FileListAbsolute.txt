@@ -19,3 +19,4 @@ C:/Users/574308/source/repos/OdeToFood/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFo
 /Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfo.cs
 /Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.dll
 /Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.pdb
+/Users/nicholaswetzel/Documents/Workspace/OdeToFood/ode-to-food/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.csprojResolveAssemblyReference.cache
