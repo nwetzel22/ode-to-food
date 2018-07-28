@@ -64,7 +64,7 @@ using OdeToFood.Services;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n    ");
             EndContext();
             BeginContext(31, 121, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5c64b5d886c3424dad99ffa02dd167b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "39a49729b13047aeabc3d1d672a2e3f0", async() => {
                 BeginContext(37, 80, true);
                 WriteLiteral("\r\n        <meta name=\"viewport\" content=\"width=device-width\" />\r\n        <title>");
                 EndContext();
@@ -94,7 +94,7 @@ using OdeToFood.Services;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(158, 168, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3556a77236d44aa29b6725eb51da2be2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "797f30d4332641039354126fe6600c85", async() => {
                 BeginContext(164, 29, true);
                 WriteLiteral("\r\n        <div>\r\n            ");
                 EndContext();
